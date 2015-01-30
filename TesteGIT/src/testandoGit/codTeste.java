@@ -11,6 +11,8 @@ public class codTeste {
 		System.out.println("teste 2");
 		
 		System.out.println("testando");
+		
+		System.out.println("agora foi");
 	}
 
 }
