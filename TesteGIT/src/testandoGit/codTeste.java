@@ -13,6 +13,8 @@ public class codTeste {
 		System.out.println("testando");
 		
 		System.out.println("agora foi");
+		
+		System.out.println("vendo se precisa comentar para mandar");
 	}
 
 }
