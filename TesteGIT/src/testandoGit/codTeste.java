@@ -7,6 +7,10 @@ public class codTeste {
 		System.out.println("teste GIT");
 		
 		System.out.println("teste 1");
+		
+		System.out.println("teste 2");
+		
+		System.out.println("testando");
 	}
 
 }
